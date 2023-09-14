@@ -11467,7 +11467,8 @@ section.height-auto {
 
 /* testmonial */
 .testmonial-wrapper {
-  background: #eaf0fc;
+  /* background: #eaf0fc; */
+  background: #fff;
   box-shadow: 0 2px 5px 0 rgba(173, 181, 189, 0.4) !important;
   border-radius: 0.2rem;
   padding: 0 20px 20px;
