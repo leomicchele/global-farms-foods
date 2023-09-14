@@ -2,6 +2,25 @@
 	max-width: 50px;
 }
 
+.container-services > div, .container-services {
+    max-width: none;
+}
+
+.card-services {
+    max-width: 250px;
+}
+.card-services > div {
+    margin: 0;
+    height: 100%;
+}
+
+@media (max-width: 500px) {
+    .card-services {
+        max-width: none;
+        width: 100%;
+    }
+}
+
 @media (max-width: 400px) {
     .img-logo {
         max-width: 30px;
